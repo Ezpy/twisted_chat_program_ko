@@ -1,5 +1,13 @@
 # twisted_chat_program_ko
 twisted chat program in Korean
 
-- Twisted
-- Wx Library
+[Requirement]
+Library
+- twisted
+- wx
+Python2.7
+
+[Features]
+- Create a chat room
+- Add blocklist
+- Message to specific user
